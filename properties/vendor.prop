@@ -153,6 +153,7 @@ ro.vendor.sensors.facing=false
 
 # Shutdown time
 sys.vendor.shutdown.waittime=500
+ro.build.shutdown_timeout=0
 
 # SoC
 ro.soc.manufacturer=QTI
